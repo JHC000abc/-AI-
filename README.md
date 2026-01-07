@@ -1,4 +1,6 @@
 # 如有合作意愿可直接评论联系我,或者联系邮箱:JHC000abc@gmail.com
+<img width="1409" height="1477" alt="d85a26fbcb6d9e2b1780070a46d55586" src="https://github.com/user-attachments/assets/c23ddd3e-5c9c-481a-99c5-9e75a00960a4" />
+
 
 `抖音AI神评助手 (v1.4.5 概率评论版)` 
 
