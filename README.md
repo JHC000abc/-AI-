@@ -272,3 +272,16 @@
 <img width="3812" height="1928" alt="image" src="https://github.com/user-attachments/assets/26afb3c1-4326-4edb-ae33-fad9c8bb998e" />
 
 
+## 增加了获取全部评论的能力
+
+<img width="3602" height="2099" alt="image" src="https://github.com/user-attachments/assets/a876d9bc-6b58-4455-b010-ecfe78985e87" />
+<img width="3841" height="1866" alt="image" src="https://github.com/user-attachments/assets/58daa094-f71f-4f80-b3dc-88f6bf962817" />
+<img width="3841" height="1866" alt="image" src="https://github.com/user-attachments/assets/01ab6bb6-9c82-45d7-9ef2-a895a7d55e1c" />
+<img width="3841" height="1866" alt="image" src="https://github.com/user-attachments/assets/32ae4065-fce7-43e4-92f6-7f592ca77d19" />
+<img width="3841" height="1866" alt="image" src="https://github.com/user-attachments/assets/156ef88e-819f-4af6-b9ab-c1efe4bf912a" />
+<img width="3340" height="1006" alt="image" src="https://github.com/user-attachments/assets/6accfdb1-d5bd-4ba1-8bfd-cc5e0c93a446" />
+
+
+
+
+
