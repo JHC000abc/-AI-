@@ -286,4 +286,77 @@
 
 
 
+# 更新日志
+## 2026.01.08
+1. 增加了 Motrix 辅助下载大视频能力(不开启默认下载半小时左右视频无压力,开启后可以下载2小时以上超大型视频)
+2. 增加对于在线大模型的支持能力
+3. 支持用户个人主页视频的自动回复能力(回复所有评论用户,包括子评论),增加容错,连续超过三次,自动失败
+4. 增加父评论,子评论全面抓取能力,增加容错,连续超过三次,自动失败
+
+### 全部功能展示
+<img width="829" height="1554" alt="image" src="https://github.com/user-attachments/assets/1a836d71-d5fd-47eb-bca3-b9b7fa946e6f" />
+
+<img width="829" height="1554" alt="image" src="https://github.com/user-attachments/assets/342e8273-2aff-44bf-b3e3-ca32f2e7c5ef" />
+
+<img width="829" height="1554" alt="image" src="https://github.com/user-attachments/assets/0a8eaecf-9a9c-4534-a8b1-8f7ba9b70287" />
+
+<img width="829" height="1554" alt="image" src="https://github.com/user-attachments/assets/e9bbd8c8-8080-4664-bb31-59b715172c1a" />
+
+
+
+
+
+
+# 备注:
+1. Motrix 安装
+   中文官网:https://motrix.app/zh-CN/
+   
+   <img width="3700" height="2054" alt="image" src="https://github.com/user-attachments/assets/e4d71dac-4b2c-4ee8-b65d-73426762af2d" />
+   
+   英文官网:https://motrix.app/
+   
+   <img width="3700" height="2054" alt="image" src="https://github.com/user-attachments/assets/49da79cc-3010-4547-8467-98b859963ec3" />
+
+   下载完成,安装包啥都不用额外配置,一路下一步就行了
+
+   <img width="2084" height="1577" alt="image" src="https://github.com/user-attachments/assets/ee006b9e-0d1a-4c43-919a-6bd56a4d4610" />
+
+   在进阶设置里,可以获取到RPC端口,以及授权密钥
+   
+   <img width="2084" height="1577" alt="image" src="https://github.com/user-attachments/assets/2130341e-2298-4942-a206-5d4052e4a8ef" />
+
+   填入插件里,保存即可
+   
+   <img width="624" height="413" alt="image" src="https://github.com/user-attachments/assets/0b15cbd3-c0a2-40c4-b2bb-2c98fef3ff08" />
+
+2. 下载安装油候脚本(谷歌浏览器为例)
+
+   官网:https://www.tampermonkey.net/index.php?browser=chrome&locale=zh
+   
+   <img width="2013" height="818" alt="image" src="https://github.com/user-attachments/assets/48325be6-145b-43cf-8baa-a0fa05cf3e06" />
+   
+   一般装第一个就行,打不开自己行办法(能看到这的,不用教吧)
+
+
+   
+3. 安装谷歌浏览器
+  官网:https://www.google.com/intl/zh-CN/chrome/
+  打不开的自行查找方案(能看到这的,不用教吧)
+  啥都不用改,全都下一步就行了
+
+4. 脚本导入
+   
+   添加新脚本
+   
+   <img width="625" height="761" alt="image" src="https://github.com/user-attachments/assets/35ec38ad-0572-4ce3-a0f2-58ef45d33193" />
+   
+   全选,删掉,然后把我给你的文件里的内容全都粘贴过来保存就行了
+   
+   <img width="3825" height="1926" alt="image" src="https://github.com/user-attachments/assets/e6c9f9d1-53f1-48c3-a3b8-371e4d4e8012" />
+   
+
+
+
+
+
 
